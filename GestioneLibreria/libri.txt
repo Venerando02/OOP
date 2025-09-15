@@ -1,0 +1,28 @@
+l1
+Horror
+King
+IT
+15
+20000101
+true
+l2
+Fantasy
+Rowling
+Harry Potter
+18
+19970103
+true
+l3
+Fantasy
+Tolkien
+Il signore degli anelli
+13
+19850304
+true
+l4
+Romanzi rosa
+Alice
+L'amore ai tempi che furono
+10
+19200304
+true

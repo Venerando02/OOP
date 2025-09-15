@@ -1,0 +1,40 @@
+dcx1234
+Scatola di cartone
+400
+0.1
+xcd32
+Barattolo in plastica
+250
+0.01
+mnp91
+Bottiglia di vetro
+1200
+0.75
+trq58
+Sacchetto biodegradabile
+50
+0.02
+klm77
+Coperchio in alluminio
+100
+0.005
+prz88
+Tubo in PVC
+600
+0.3
+gfh21
+Flacone spray
+300
+0.15
+bvx19
+Tavoletta di legno
+1500
+1.2
+znq55
+Etichetta adesiva
+10
+0.0005
+rty07
+Contenitore in acciaio
+2500
+1.5

@@ -1,0 +1,15 @@
+costa_smeralda
+1000
+2000
+Catania
+Marsiglia
+costa_gioiosa
+1500
+2500
+Napoli
+Barcellona
+MSC_big
+1700
+2800
+Civitavecchia
+Valencia

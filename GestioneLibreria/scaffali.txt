@@ -1,0 +1,9 @@
+Horror
+Libri paurosi
+0.2
+Fantasy
+Libri fuori dalla realtà
+0.1
+Romanzi rosa
+Per i sognatori
+0.3
