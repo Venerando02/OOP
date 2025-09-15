@@ -1,0 +1,15 @@
+IT001
+1
+Bonifico in ingresso
+240.00
+2023/01/20
+IT003
+2
+Pagamento con carta
+120.21
+2023/01/19
+IT003
+1
+Bonifico in ingresso
+221.11
+2023/03/31

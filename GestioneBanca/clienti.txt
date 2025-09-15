@@ -1,0 +1,16 @@
+IT001
+1
+Monaco Lorenzo
+23.43
+IT002
+1
+Alessio Bianchi
+334.12
+IT003
+2
+Tino Tini
+1.21
+IT004
+3
+Marco Marchi
+21312.21
