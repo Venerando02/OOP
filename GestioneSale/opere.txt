@@ -1,0 +1,95 @@
+Leonardo da Vinci
+1
+101
+dipinto
+5000000
+Michelangelo
+1
+102
+statua
+3000000
+Leonardo da Vinci
+1
+111
+dipinto
+6000000
+Michelangelo
+1
+112
+statua
+4000000
+Caravaggio
+2
+201
+dipinto
+2000000
+Caravaggio
+2
+204
+dipinto
+2500000
+Caravaggio
+2
+113
+dipinto
+3000000
+Bernini
+2
+202
+scultura
+1500000
+Bernini
+2
+207
+scultura
+1800000
+Bernini
+2
+114
+scultura
+2000000
+Pablo Picasso
+3
+301
+dipinto
+8000000
+Pablo Picasso
+3
+308
+dipinto
+9000000
+Pablo Picasso
+3
+115
+dipinto
+9500000
+Salvador Dali'
+3
+302
+dipinto
+6000000
+Salvador Dali'
+3
+309
+dipinto
+6500000
+Salvador Dali'
+3
+116
+dipinto
+7000000
+Umberto Boccioni
+3
+303
+statua
+1200000
+Umberto Boccioni
+3
+310
+statua
+1400000
+Umberto Boccioni
+3
+117
+statua
+1600000

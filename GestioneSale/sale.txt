@@ -1,0 +1,12 @@
+Sala Rinascimento
+1
+1400-1600
+Piano Terra
+Sala Barocco
+2
+1600-1750
+Primo Piano
+Sala Moderna
+3
+1900-2000
+Secondo Piano

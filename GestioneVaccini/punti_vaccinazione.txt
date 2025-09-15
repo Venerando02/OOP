@@ -1,0 +1,25 @@
+NESIMA
+nesima ospedale
+via catania 2
+sicilia
+10
+PRINCIPE UMBERTO
+ospedale del principe
+via umberto 8
+campania
+15
+FRANCOIS
+ospedale francese
+via francorschamp 12
+sicilia
+10
+STAGLIANO
+zoo
+via scimpanze 22
+calabria
+25
+BONACINI
+algebra lineare
+via geometria 20
+campania
+9
